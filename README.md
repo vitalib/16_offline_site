@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+All dependencies of https://getbootstrap.com/docs/3.3/examples/jumbotron/ were saved to current repository.
 
 # Project Goals
 
